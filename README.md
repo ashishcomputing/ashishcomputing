@@ -1,4 +1,5 @@
 ## Hi there 👋
+its me ASH
 
 <!--
 **ashishcomputing/ashishcomputing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/ashishcomputing/ashishcomputing/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ASHISHCOMOUTING/blob/output/github-contribution-grid-snake-dark.svg)

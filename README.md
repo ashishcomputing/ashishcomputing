@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/ASHISHCOMOUTING/ashishcomputing/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ASHISHCOMPUTING/ashishcomputing/blob/output/github-contribution-grid-snake-dark.svg)
